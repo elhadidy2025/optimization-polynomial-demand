@@ -28,13 +28,12 @@ From the project root:
 python src/main.py
 ```
 
-The code uses only:
+The code uses :
 
 ```text
 NumPy, pandas, matplotlib
 ```
 
-No machine learning libraries are used.
 
 ## Output
 
@@ -49,13 +48,6 @@ The final report is already included at:
 
 ```text
 report/report.pdf
-```
-
-To rebuild the report after rerunning experiments, compile:
-
-```bash
-cd report
-pdflatex report.tex
 ```
 
 ## Implemented methods
