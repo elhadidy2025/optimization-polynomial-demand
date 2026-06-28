@@ -1,0 +1,14 @@
+dataset_rows_full,913000
+store,1
+item,1
+degree_main,3
+main_lambda,0.001
+n_train_after_lags,1454
+n_test_after_lags,365
+n_features_degree_main,165
+raw_feature_columns,"t, day_of_week, month, day_of_year, weekend, lag_1, lag_7, rolling_mean_7"
+best_optimizer,SGD
+best_test_rmse,5.446487746143628
+best_test_mae,4.305247643563065
+best_degree_by_test_rmse,2
+best_lambda_by_test_rmse,0.01
