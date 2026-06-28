@@ -77,4 +77,4 @@ pdflatex report.tex
 - MSE + L1 regularization: convex non-smooth
 - MSE + smooth L0-like regularization: smooth non-convex
 
-You can also check the project on my repo: 
+
