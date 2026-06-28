@@ -44,12 +44,6 @@ figures/   convergence and accuracy plots
 results/   CSV tables with experimental results
 ```
 
-The final report is already included at:
-
-```text
-report/report.pdf
-```
-
 ## Implemented methods
 
 - Gradient Descent
