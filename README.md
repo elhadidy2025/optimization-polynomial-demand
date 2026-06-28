@@ -1,6 +1,6 @@
 # Optimization Methods for Polynomial Regression - Demand Forecasting
 
-**Student:** Mohamed Elhadidy  \n**Matriculation Number:** 12328710
+**Student:** Mohamed Elhadidy  
 
 This project implements polynomial regression for retail demand forecasting and compares optimization methods under different objective structures.
 
